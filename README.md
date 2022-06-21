@@ -13,11 +13,11 @@
 - Clean and Noob-Friendly UI
 - Error handling with automatic retry management in case of ratelimit
 
-## To Do List
-- Nothing for the moment, if you have a suggestion don't hesitate to open an issue and propose it!
-
 ## Usage
 You can either use the compiled version (.exe) in releases or use the Python version by downloading the dependencies in the requirements.txt file first.
+
+## To Do List
+- Nothing for the moment, if you have a suggestion don't hesitate to open an issue and propose it!
 
 ## About
 EzNick is a script I made for fun in 2 hours. I know it's not perfect and that's why I will take into account all your suggestions!
