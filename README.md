@@ -1,7 +1,7 @@
 <h1 align="center">EzNick</h1>
 
 <h4 align="center">⛏️ The Fastest Minecraft Username Checker</h4>
-<h6 align="center">Made with passion by Frogy.</a></h6>
+<h6 align="center">Made with passion by Frogy - Please star the project if you use it :3</a></h6>
 
 ## Preview
 
